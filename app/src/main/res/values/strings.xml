@@ -1,3 +1,8 @@
 <resources>
-    <string name="app_name">ChineseHeritage</string>
+    <string name="category1_text">班级: 计算机网络技术专业</string>
+    <string name="category2_text">学号: 202222222</string>
+    <string name="category3_text">姓名: 张三</string>
+    <string name="about_text">兴趣爱好: 阅读, 音乐</string>
+    <string name="app_name">Chinese Heritage</string>
+
 </resources>
