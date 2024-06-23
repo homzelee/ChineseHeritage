@@ -1,8 +1,17 @@
 <resources>
+    <string name="app_name">Chinese Heritage</string>
     <string name="category1_text">班级: 计算机网络技术专业</string>
     <string name="category2_text">学号: 202222222</string>
     <string name="category3_text">姓名: 张三</string>
     <string name="about_text">兴趣爱好: 阅读, 音乐</string>
-    <string name="app_name">Chinese Heritage</string>
+    <string name="folk_literature">民间文学</string>
+    <string name="traditional_music">传统音乐</string>
+    <string name="traditional_dance">传统舞蹈</string>
+    <string name="category1_image">民间文学图片</string>
+    <string name="category2_image">传统音乐图片</string>
+    <string name="category3_image">传统舞蹈图片</string>
+    <string name="pause">暂停</string>
+    <string name="play">播放</string>
+    <string name="reading_text">播放红颜如霜</string>
 
 </resources>
