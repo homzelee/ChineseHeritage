@@ -4,29 +4,45 @@
     android:layout_height="match_parent"
     android:orientation="vertical"
     android:gravity="center"
-    android:padding="16dp">
+    android:padding="16dp"
+    android:background="@color/white">
 
     <Button
         android:id="@+id/category1_button"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="民间文学" />
+        android:text="@string/folk_literature"
+        android:background="@drawable/button_background"
+        android:textColor="@color/white"
+        android:padding="16dp"
+        android:layout_marginBottom="16dp" />
 
     <Button
         android:id="@+id/category2_button"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="传统音乐" />
+        android:text="@string/traditional_music"
+        android:background="@drawable/button_background"
+        android:textColor="@color/white"
+        android:padding="16dp"
+        android:layout_marginBottom="16dp" />
 
     <Button
         android:id="@+id/category3_button"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="传统舞蹈" />
+        android:text="@string/traditional_dance"
+        android:background="@drawable/button_background"
+        android:textColor="@color/white"
+        android:padding="16dp"
+        android:layout_marginBottom="16dp" />
 
     <Button
         android:id="@+id/about_button"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="自我介绍" />
+        android:text="@string/about_text"
+        android:background="@drawable/button_background"
+        android:textColor="@color/white"
+        android:padding="16dp" />
 </LinearLayout>

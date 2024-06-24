@@ -3,21 +3,24 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    android:padding="16dp">
+    android:padding="16dp"
+    android:background="@color/white">
 
     <TextView
         android:id="@+id/textView"
-        android:layout_width="wrap_content"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:textSize="24sp"
-        android:paddingBottom="16dp" />
+        android:textSize="20sp"
+        android:paddingBottom="16dp"
+        android:textColor="@color/black" />
 
     <ImageView
         android:id="@+id/imageView"
-        android:layout_width="wrap_content"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:src="@drawable/traditionaldancing"
-        android:contentDescription="传统舞蹈图片" />
+        android:contentDescription="@string/category3_image"
+        android:scaleType="centerCrop" />
 
     <SeekBar
         android:id="@+id/seekBar"
@@ -29,8 +32,10 @@
         android:id="@+id/playPauseButton"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:textOn="暂停"
-        android:textOff="播放"
+        android:textOn="@string/pause"
+        android:textOff="@string/play"
         android:checked="true"
-        android:paddingTop="16dp" />
+        android:paddingTop="16dp"
+        android:background="@drawable/toggle_button_background"
+        android:textColor="@color/white" />
 </LinearLayout>
