@@ -8,28 +8,28 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="班级: 计算机网络技术专业"
+        android:text="班级: 网络222"
         android:textSize="18sp"
         android:paddingBottom="8dp" />
 
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="学号: 20222222"
+        android:text="学号: 146122239"
         android:textSize="18sp"
         android:paddingBottom="8dp" />
 
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="姓名: 张三"
+        android:text="姓名: 李鸿泽"
         android:textSize="18sp"
         android:paddingBottom="8dp" />
 
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="兴趣爱好: 阅读、音乐"
+        android:text="兴趣爱好: 阅读、音乐、计算机"
         android:textSize="18sp"
         android:paddingBottom="8dp" />
 
