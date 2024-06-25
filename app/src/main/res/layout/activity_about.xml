@@ -3,45 +3,38 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    android:padding="16dp"
-    android:gravity="center"
-    android:background="@color/white">
+    android:padding="16dp">
 
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="@string/category1_text"
+        android:text="班级: 计算机网络技术专业"
         android:textSize="18sp"
-        android:paddingBottom="8dp"
-        android:textColor="@color/black" />
+        android:paddingBottom="8dp" />
 
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="@string/category2_text"
+        android:text="学号: 20222222"
         android:textSize="18sp"
-        android:paddingBottom="8dp"
-        android:textColor="@color/black" />
+        android:paddingBottom="8dp" />
 
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="@string/category3_text"
+        android:text="姓名: 张三"
         android:textSize="18sp"
-        android:paddingBottom="8dp"
-        android:textColor="@color/black" />
+        android:paddingBottom="8dp" />
 
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="@string/about_text"
+        android:text="兴趣爱好: 阅读、音乐"
         android:textSize="18sp"
-        android:paddingBottom="8dp"
-        android:textColor="@color/black" />
+        android:paddingBottom="8dp" />
 
     <ImageView
-        android:layout_width="200dp"
-        android:layout_height="200dp"
-        android:src="@drawable/aboutme"
-        android:contentDescription="@string/about_image" />
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/aboutme" />
 </LinearLayout>

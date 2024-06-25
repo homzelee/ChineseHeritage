@@ -3,14 +3,16 @@
     <string name="folk_literature">民间文学</string>
     <string name="traditional_music">传统音乐</string>
     <string name="traditional_dance">传统舞蹈</string>
-    <string name="about_text">关于</string>
-    <string name="category1_text">民间文学的内容展示</string>
-    <string name="category2_text">传统音乐的内容展示</string>
-    <string name="category3_text">传统舞蹈的内容展示</string>
+    <string name="about_text">自我介绍</string>
     <string name="about_image">关于图片</string>
+    <string name="play">播放</string>
+    <string name="pause">暂停</string>
+    <string name="category1_text">班级: 计算机网络技术专业</string>
+    <string name="category2_text">学号: 202222222</string>
+    <string name="category3_text">姓名: 张三</string>
     <string name="category1_image">民间文学图片</string>
     <string name="category2_image">传统音乐图片</string>
     <string name="category3_image">传统舞蹈图片</string>
-    <string name="play">播放</string>
-    <string name="pause">暂停</string>
+    <string name="reading_text">播放红颜如霜</string>
+
 </resources>
